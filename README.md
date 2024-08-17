@@ -2,7 +2,7 @@
 
 ## Overview
 
-The "Pitný Režim" application is a desktop Java application designed to help users track their daily water intake. With this app, you can easily add and remove water entries throughout the day to ensure you meet your hydration goals.
+The Water Hack application is a desktop Java application designed to help users track their daily water intake. With this app, you can easily add and remove water entries throughout the day to ensure you meet your hydration goals.
 
 ## Key Features
 
